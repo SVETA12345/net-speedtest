@@ -1,0 +1,16 @@
+{
+  "name": "net-speedtest",
+  "version": "1.0.0",
+  "description": "Консольный скрипт для замера скорости загрузки",
+  "main": "index.js",
+  "bin": {
+    "speedtest": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT"
+}
